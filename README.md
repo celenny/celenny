@@ -7,7 +7,7 @@
   </samp>
   
   <p align="left" style="text-align: center;">
- I'm the creator of the Cely Codes project, an initiative <br> that promotes female protagonism in the areas of STEM.<br> I am currently studying game programming.
+ I'm the creator of the Cely Codes project, an initiative <br> that promotes female protagonism in the areas of STEM.<br> I'm currently studying game programming.
 </p>
 
 ## Languages and Tools: </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
