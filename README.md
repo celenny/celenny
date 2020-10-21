@@ -9,7 +9,7 @@
   </samp>
   
   <p align="center" style="text-align: center;">
-Hello world, my name is Celenny and I am the creator of the Cely Codes <br>project, an initiative that promotes female protagonism in the areas of STEM. <br>  I am currently studying programming for digital games
+Hello world, my name is Celenny and I'm the creator of the Cely Codes <br>project, an initiative that promotes female protagonism in the areas of STEM. <br>  I am currently studying programming for digital games
 </p>
 
 <!--
