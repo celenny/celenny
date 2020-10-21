@@ -7,7 +7,7 @@
   </samp>
   
   <p align="left" style="text-align: center;">
- I'm the creator of the Cely Codes project, an initiative <br> that promotes female protagonism in the areas of STEM. I am currently studying game programming
+ I'm the creator of the Cely Codes project, an initiative <br> that promotes female protagonism in the areas of STEM.<br> I am currently studying game programming.
 </p>
 
 ## Languages and Tools: </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -17,7 +17,7 @@
  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/celycodes)](https://twitter.com/celycodes) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-c039a6?style=flat-square&labelColor=c039a6&logo=instagram&logoColor=white&link=https://instagram.com/celycodes)](https://instagram.com/celycodes)
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <i><b>GitHub Stats...</b></i><br>
+ <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> <i><b>GitHub Stats...</b></i><br>  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
 <a href="https://github.com/celenny/website">
   <img src="https://github-readme-stats.vercel.app/api?username=celenny&show_icons=true&hide=commits" />
