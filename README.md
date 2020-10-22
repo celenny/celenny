@@ -16,8 +16,9 @@
 ## Find me around the web <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/celycodes)](https://twitter.com/celycodes) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-c039a6?style=flat-square&labelColor=c039a6&logo=instagram&logoColor=white&link=https://instagram.com/celycodes)](https://instagram.com/celycodes)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:celycristhyne@gmail.com)](mailto:celycristhyne@gmail.com)
 
- <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> <i><b>GitHub Stats...</b></i><br> 
+ <i><b>GitHub Stats...</b></i> <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
  
 <a href="https://github.com/celenny/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=celenny&show_icons=true&include_all_commits=true&theme=buefy" alt="Anurag's github stats" />
