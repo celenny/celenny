@@ -1,11 +1,6 @@
 <!-- HEADER -->
-<p align="left">
-  <img align="center" height="160px" src="https://user-images.githubusercontent.com/70456452/96717218-7f724600-137c-11eb-8e54-fcedf795ec84.png" width="px"  />
+<div align=center>
   
-  <samp>
-    <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> Hi there, I'm cely
-  </samp>
-
 ## Languages and Tools: </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -31,7 +26,7 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celenny&layout=compact&theme=midnight-purple" />
 </a>
-
+</div>
 <!--
 **celenny/celenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
