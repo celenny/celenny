@@ -1,9 +1,8 @@
 <!-- HEADER -->
 <div align=center>
+<h2> Hi, I'm Celenny Cristhyne! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
   
-## About me ✨  <br>
-### Hello World ! my name is celenny i'm 19 and currently studying programming for digital games. 
-
 ## Languages and Tools: </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
