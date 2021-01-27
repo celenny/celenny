@@ -1,6 +1,9 @@
 <!-- HEADER -->
 <div align=center>
   
+## About me ✨  <br>
+### Hello World ! my name is celenny i'm 19 and currently studying programming for digital games at Senac. 
+
 ## Languages and Tools: </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
