@@ -10,6 +10,7 @@
 ![Css Badge](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) 
 ![Csharp Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net Badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Unity Badge](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 ## Find me around the web <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/celycodes) 
@@ -21,11 +22,11 @@
  <i><b>GitHub Stats...</b></i> <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
  
 <a href="https://github.com/celenny/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=celenny&show_icons=true&include_all_commits=true&theme=buefy" alt="Celenny Cristhyne's github stats"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=celenny&show_icons=true&include_all_commits=true&theme=vue" alt="Celenny Cristhyne's github stats"/>
 </a> 
 <a href="https://github.com/celenny/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celenny&layout=compact&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celenny&layout=compact&theme=vue" />
 </a>
 </div>
 <!--
