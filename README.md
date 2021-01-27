@@ -2,7 +2,7 @@
 <div align=center>
   
 ## About me ✨  <br>
-### Hello World ! my name is celenny i'm 19 and currently studying programming for digital games at Senac. 
+### Hello World ! my name is celenny i'm 19 and currently studying programming for digital games. 
 
 ## Languages and Tools: </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
