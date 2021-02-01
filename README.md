@@ -3,16 +3,19 @@
 <h2> Hi there, I'm Celenny Cristhyne! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
   
-## Languages and Tools: </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Html 5 Badge](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![Css Badge](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) 
-![Csharp Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.Net Badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Unity Badge](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+<p align="left">
+  🐬 Languages and Skills: <strong>Python, HTML 5, CSS 3, JavaScript, C#.</strong>
+</p>
 
-## Find me around the web <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
+<p align="left">
+  👩🏽‍💻 Tools: <strong>Vscode, Microsoft Visual Studio, .NET, Unity, Git and GitHub.</strong>
+</p>
+
+<p align="left">
+  💌 Find me around the web ⤵️
+</p>
+
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/celycodes) 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/celycodes)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:celycristhyne@gmail.com)
