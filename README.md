@@ -1,6 +1,6 @@
 <!-- HEADER -->
 
-<h2> Hi there, I'm Celenny Cristhyne! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="45"></h2>
+<h2> Hi there, I'm Celenny Cristhyne! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="10"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
   
 
@@ -22,7 +22,8 @@
 
  <i><b>GitHub Stats...</b></i> <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
  
-  ![stats](https://github-readme-stats.vercel.app/api?username=celenny&show_icons=true&theme=vue) ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=celenny&layout=compact&theme=vue)
+<a href="https://github.com/celenny/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=celenny&show_icons=true&include_all_commits=true&theme=vue" alt="Celenny Cristhyne's github stats"/>
   
 
 <!--
