@@ -2,8 +2,9 @@
 
 <h2> Hi there, I'm Celenny Cristhyne! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="10"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-  
-
+<p><em>Programming student for digital games at <a href="https://www.ead.senac.br/">Senac Ead</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+ </em></p>
+ 
 <p align="left">
   🐬 Languages and Skills: <strong>Python, HTML 5, CSS 3, JavaScript, C#.</strong>
 </p>
