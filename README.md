@@ -20,7 +20,7 @@
 [![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:celycristhyne@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/celycodes/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celenny)
-<a href="discord://"><img src="https://img.shields.io/badge/-celenny%230905-%237289DA?style=for-the-badge&logo=Discord&logoColor=white&link=discord://" alt="Discord"/></a>
+![Discord](https://img.shields.io/badge/-celenny%230905-%237289DA?style=for-the-badge&logo=Discord&logoColor=white&link=discord)
 
  <i><b>GitHub Stats...</b></i> <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
  
