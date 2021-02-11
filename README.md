@@ -22,11 +22,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celenny)
 ![Discord](https://img.shields.io/badge/-celenny%230905-%237289DA?style=for-the-badge&logo=Discord&logoColor=white&link=discord)
 
- <i><b>GitHub Stats...</b></i> <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
- 
-<a href="https://github.com/celenny/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=celenny&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Celenny Cristhyne's github stats"/>
-  
+<details open>
+ <summary> <b>GitHub Stats...</b></i> <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> </summary>
+<br>
+<p align = "center">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=celenny&show_icons=true&include_all_commits=true&theme=tokyonight">
+</p>
+
+</details>  
 
 <br>![Profile views](https://komarev.com/ghpvc/?username=celenny&style=flat-square&color=7EE6B9)
 
