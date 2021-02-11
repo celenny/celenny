@@ -28,6 +28,8 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=celenny&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Celenny Cristhyne's github stats"/>
   
 
+<br>![Profile views](https://komarev.com/ghpvc/?username=celenny&style=flat-square&color=7EE6B9)
+
 <!--
 **celenny/celenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
