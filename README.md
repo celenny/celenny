@@ -31,8 +31,6 @@
 
 </details>  
 
-<br>![Profile views](https://komarev.com/ghpvc/?username=celenny&style=flat-square&color=7EE6B9)
-
 <!--
 **celenny/celenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
