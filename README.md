@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  👩🏽‍💻 Tools: <strong>Vscode, Microsoft Visual Studio, .NET, Unity, Git and GitHub.</strong>
+  👩🏽‍💻 Tools: <strong>VSCode, Microsoft Visual Studio, .NET, Unity, Git and GitHub.</strong>
 </p>
 
 <p align="left">
