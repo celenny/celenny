@@ -23,8 +23,11 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/celycristhyne)
 ![Discord](https://img.shields.io/badge/-celenny%230905-%237289DA?style=for-the-badge&logo=Discord&logoColor=white&link=discord)
 
+<p/>
 <details open>
  <summary> <b>GitHub Stats...</b></i> <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> </summary>
+<br>
+<p align = "center">
 <br>
 <center>
 <table>
@@ -34,7 +37,10 @@
   </tr>   
 </table>
 </center>
-</details>  
+</p>
+
+</details>
+
 
 <!--
 **celenny/celenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
