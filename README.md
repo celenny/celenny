@@ -26,10 +26,14 @@
 <details open>
  <summary> <b>GitHub Stats...</b></i> <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> </summary>
 <br>
-<p align = "center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=celenny&show_icons=true&include_all_commits=true&theme=tokyonight">
-</p>
-
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celenny&hide=html&layout=compact&show_icons=true&theme=cobalt" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=celenny&show_icons=true&theme=cobalt" /></td>
+  </tr>   
+</table>
+</center>
 </details>  
 
 <!--
