@@ -1,5 +1,4 @@
 <!-- HEADER -->
-
 <h2> Hi there, I'm Celenny Cristhyne! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="55"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Programming student for digital games at <a href="https://www.ead.senac.br/">Senac Ead</a>
