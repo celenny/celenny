@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <h2> Hi there, I'm Celenny Cristhyne! </h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Computer science student at <a href="https://www.uespi.br/site/">UESPI</a>
+<p><em>Computer Science student at <a href="https://www.uespi.br/site/">UESPI</a>
  </em></p>
  
 <p align="left">
