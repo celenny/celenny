@@ -5,7 +5,7 @@
  </em></p>
  
 <p align="left">
-  🐬 Languages and Skills: <strong>Python, C#.</strong>
+  🐬 Languages and Skills: <strong>Python, C#, HTML, CSS, JavaScript.</strong>
 </p>
 
 <p align="left">
