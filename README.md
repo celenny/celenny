@@ -28,8 +28,8 @@
 <center>
 <table>
   <tr>
-      <td><img width="340px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celenny&hide=ShaderLab&layout=compact&show_icons=true&theme=cobalt" /></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=celenny&show_icons=true&theme=cobalt" /></td>
+      <td><img width="340px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celenny&hide=ShaderLab&layout=compact&show_icons=true&theme=dark" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=celenny&show_icons=true&theme=dark" /></td>
   </tr>   
 </table>
 </center>
