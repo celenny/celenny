@@ -30,7 +30,7 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/celycodes/)
 
 <details align="left">
-  <summary><b>GitHub Stats...</b></i> <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> </summary>
+  <summary><b>GitHub Stats...</b></i> </summary>
 <p align = "center">
 <br>
 <center>
