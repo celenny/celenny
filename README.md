@@ -1,8 +1,6 @@
 <!-- HEADER -->
 <h2> Hi there, I'm Celenny ! </h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Computer Science undergraduate student at State University of Piauí <a href="https://www.uespi.br/site/">(UESPI)</a>
- </em></p>
+<p><em>I’m a Computer Science student at the State University of Piauí (UESPI), I have an instagram project called @celycodes where I share knowledge and projects in pt-br . I’m studying Dart, Flutter and Python with the Pyladies Parnaíba Group.</em></p>
  
 <p align="left">
   Languages and Skills: <br>
