@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/70456452/172366423-5007f1d9-cb99-4125-9776-f0d21888e216.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador">
 <p>
- I’m a Computer Science student at the State University of Piauí (UESPI), I have an project called @celycodes where I share knowledge and projects in pt-br 🇧🇷. I’m currently learning Dart/Flutter and Python with the Pyladies Parnaíba Group
+ I’m a Computer Science undergraduate at UESPI, I have an project called @celycodes where I share knowledge and projects in pt-br 🇧🇷. I’m currently learning Dart/Flutter and Python with the Pyladies Parnaíba Group
 </p>
  
 <p align="left">
