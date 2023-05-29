@@ -3,7 +3,7 @@
  I’m a Computer Science undergraduate at UESPI, I have an project called @celycodes where I share knowledge and projects in pt-br 🇧🇷. I’m currently learning Dart/Flutter and UI Design.
  
 * [GDG Parnaíba](https://gdg.community.dev/gdg-parnaiba/) Co Organizer
-* [PyLadies Parnaíba](https://www.instagram.com/pyladiesparnaiba/) Member
+* [PyLadies Parnaíba](https://www.instagram.com/pyladiesparnaiba/) Co Organizer
 </p>
  
 <p align="left">
