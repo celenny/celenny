@@ -3,7 +3,7 @@
  I’m a Computer Science undergraduate at UESPI, I have an project called @celycodes where I share knowledge and projects in pt-br 🇧🇷. I’m currently learning React.js, JavaScript.
  
 * [GDG Parnaíba](https://gdg.community.dev/gdg-parnaiba/) Co Organizer
-* [PyLadies Parnaíba](https://www.instagram.com/pyladiesparnaiba/) Member
+
 </p>
  
 <p align="left">
